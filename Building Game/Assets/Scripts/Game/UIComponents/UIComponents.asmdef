@@ -1,0 +1,16 @@
+{
+    "name": "UIComponents",
+    "rootNamespace": "",
+    "references": [
+        "GUID:444fe92a1b6ef4f438d91922b773ace8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
