@@ -111,7 +111,7 @@ namespace Game.BuildingComponents
 
         private Building CreateBuilding(Building prefab)
         {
-            return Instantiate(prefab, Vector2.zero, Quaternion.identity);
+            return CreateBuilding(prefab, Vector2.zero);
         }
 
         private Building CreateBuilding(Building prefab, Vector2 position)
